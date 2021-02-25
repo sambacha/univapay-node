@@ -8,7 +8,7 @@ export enum CardBrand {
     MASTERCARD = "mastercard",
     MAESTRO = "maestro",
     AMEX = "american_express",
-    DINERS = "diners_club",
+    DINERS = "diners_club_international",
     DISCOVER = "discover",
     JCB = "jcb",
     UNIONPAY = "unionpay",
